@@ -1,0 +1,6 @@
+*node_modules
+/backend
+/src
+/public
+/package.json
+/package-lock.json
